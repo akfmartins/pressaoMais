@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "197493727365",
+    "firebase_url": "https://pressaomais-default-rtdb.firebaseio.com",
+    "project_id": "pressaomais",
+    "storage_bucket": "pressaomais.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197493727365:android:2f483aacf7ca6f72d289ec",
+        "android_client_info": {
+          "package_name": "com.company.pressaomais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33ib5aj7-4ubqz_y5PXmDrYq3cwqPviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
